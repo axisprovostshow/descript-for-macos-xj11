@@ -1,4 +1,4 @@
-# 
+# custom Descript for macOS Automation | chromatic-aberration-fix + scene-transitions offers the most advanced Descript for macOS automation, with chromatic-aberration-fix and
 
 
 
